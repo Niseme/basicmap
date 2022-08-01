@@ -1,0 +1,11 @@
+.display-data{
+    border: 2px solid rgba(49, 45, 45, 0.284);
+    border-radius: 10em;
+    padding: 1em;
+    background: rgb(67, 190, 143);
+    background: linear-gradient(0deg, rgba(67, 190, 143, 1) 0%, rgba(26, 74, 184, 0.6867121848739496) 100%);
+}
+.header {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
